@@ -1,0 +1,8 @@
+site_name: "specific-api"
+site_description: "This is the specific api"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
